@@ -1,0 +1,23 @@
+Calculation mode: MEX
+ 
+Training Function Fitting Neural Network with TRAINLM.
+Epoch 0/1000, Time 0.000778, Performance 35.8192/0, Gradient 64.4913/1e-07, Mu 0.001/10000000000, Validation Checks 0/6
+Epoch 13/1000, Time 0.041152, Performance 4.7098/0, Gradient 1.7058/1e-07, Mu 0.001/10000000000, Validation Checks 6/6
+Training with TRAINLM completed: Validation stop.
+ 
+Closeness(Q*: 18.000000, Q: 9.972753) =  8.027247
+Closeness(Q*: 18.000000, Q: 6.119117) =  11.880883
+Closeness(Q*: 18.000000, Q: 6.110117) =  11.889883
+Closeness(Q*: 18.000000, Q: 4.597927) =  13.402073
+Inputs required to produce Q* = 18.00 are:
+
+ans =
+
+    3.4636  -25.0132  -20.2548  -16.4055   17.8587
+
+Accuracy (Q / Q*) = 0.992153
+>> d11
+
+d11 =
+
+    3.4636
